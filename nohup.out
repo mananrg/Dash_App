@@ -1,0 +1,131 @@
+Running on http://0.0.0.0:6101/
+Debugger PIN: 717-754-698
+ * Serving Flask app "index" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Running on http://0.0.0.0:6101/
+Debugger PIN: 193-433-731
+Running on http://0.0.0.0:6101/
+Debugger PIN: 119-239-830
+ * Serving Flask app "index" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "index.py", line 35, in <module>
+    app.run_server(host='0.0.0.0', debug='true', port=6101)
+  File "/root/miniconda3/lib/python3.7/site-packages/dash/dash.py", line 2026, in run_server
+    self.server.run(port=port, debug=debug, **flask_run_options)
+  File "/root/miniconda3/lib/python3.7/site-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/root/miniconda3/lib/python3.7/site-packages/werkzeug/serving.py", line 988, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Running on http://0.0.0.0:6101/
+Debugger PIN: 061-673-837
+ * Serving Flask app "index" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "index.py", line 35, in <module>
+    app.run_server(host='0.0.0.0', debug='true', port=6101)
+  File "/root/miniconda3/lib/python3.7/site-packages/dash/dash.py", line 2026, in run_server
+    self.server.run(port=port, debug=debug, **flask_run_options)
+  File "/root/miniconda3/lib/python3.7/site-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/root/miniconda3/lib/python3.7/site-packages/werkzeug/serving.py", line 988, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Running on http://0.0.0.0:6101/
+Debugger PIN: 228-729-418
+Running on http://0.0.0.0:6101/
+Debugger PIN: 416-368-375
+Running on http://0.0.0.0:6101/
+Debugger PIN: 423-754-628
+Running on http://0.0.0.0:6101/
+Debugger PIN: 768-807-155
+Running on http://0.0.0.0:6101/
+Debugger PIN: 086-020-350
+Running on http://0.0.0.0:6101/
+Debugger PIN: 487-339-709
+ * Serving Flask app "index" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "index.py", line 35, in <module>
+    app.run_server(host='0.0.0.0', debug='true', port=6101)
+  File "/root/miniconda3/lib/python3.7/site-packages/dash/dash.py", line 2026, in run_server
+    self.server.run(port=port, debug=debug, **flask_run_options)
+  File "/root/miniconda3/lib/python3.7/site-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/root/miniconda3/lib/python3.7/site-packages/werkzeug/serving.py", line 988, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Running on http://0.0.0.0:6101/
+Debugger PIN: 119-249-269
+Running on http://0.0.0.0:6101/
+Debugger PIN: 562-088-675
+ * Serving Flask app "index" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "index.py", line 35, in <module>
+    app.run_server(host='0.0.0.0', debug='true', port=6101)
+  File "/root/miniconda3/lib/python3.7/site-packages/dash/dash.py", line 2026, in run_server
+    self.server.run(port=port, debug=debug, **flask_run_options)
+  File "/root/miniconda3/lib/python3.7/site-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/root/miniconda3/lib/python3.7/site-packages/werkzeug/serving.py", line 988, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Running on http://0.0.0.0:6101/
+Debugger PIN: 932-753-616
+Running on http://0.0.0.0:6101/
+Debugger PIN: 439-407-167
+ * Serving Flask app "index" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "index.py", line 35, in <module>
+    app.run_server(host='0.0.0.0', debug='true', port=6101)
+  File "/root/miniconda3/lib/python3.7/site-packages/dash/dash.py", line 2026, in run_server
+    self.server.run(port=port, debug=debug, **flask_run_options)
+  File "/root/miniconda3/lib/python3.7/site-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/root/miniconda3/lib/python3.7/site-packages/werkzeug/serving.py", line 988, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Running on http://0.0.0.0:6101/
+Debugger PIN: 563-163-506
+Running on http://0.0.0.0:6101/
+Debugger PIN: 545-261-180
+ * Serving Flask app "index" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Traceback (most recent call last):
+  File "index.py", line 35, in <module>
+    app.run_server(host='0.0.0.0', debug='true', port=6101)
+  File "/root/miniconda3/lib/python3.7/site-packages/dash/dash.py", line 2026, in run_server
+    self.server.run(port=port, debug=debug, **flask_run_options)
+  File "/root/miniconda3/lib/python3.7/site-packages/flask/app.py", line 990, in run
+    run_simple(host, port, self, **options)
+  File "/root/miniconda3/lib/python3.7/site-packages/werkzeug/serving.py", line 988, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+Running on http://0.0.0.0:6101/
+Debugger PIN: 385-785-468
+Running on http://0.0.0.0:6101/
+Debugger PIN: 239-812-752
